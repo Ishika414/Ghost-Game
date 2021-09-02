@@ -4,8 +4,11 @@ public class MainOfGame {
 
 	public static void main(String[] args) {
 	
-Menu m = new Menu();		
-//hello!!
+OpeningWindow ow = new OpeningWindow();
+//GhostLevel g1 = new GhostLevel();		
+		//LevelsWindow lw = new LevelsWindow();
+		
+		
 	}
 
 }
